@@ -66,7 +66,7 @@ Develop a `GET` API for a user where they give their address as an input and get
    https://koinx-blockchain.onrender.com/api/getEthBalance/0xce94e5621a5f7068253c42558c147480f38b5e0d`
    ```
 
-**Delployed Link:**
+**Deployed Link:**
  ```bash
-   https://koinx-blockchain.onrender.com
+   Base URL: https://koinx-blockchain.onrender.com
    ```

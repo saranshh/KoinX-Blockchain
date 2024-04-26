@@ -33,21 +33,11 @@ Develop an API using Node.js to fetch the crypto transactions of a user.
    https://koinx-blockchain.onrender.com/api/getTransactionsByAddress/:WalletAddress
    ```
 
-**Sample input**
-   ```bash
-   https://koinx-blockchain.onrender.com/api/getTransactionsByAddress/0xce94e5621a5f7068253c42558c147480f38b5e0d
-   ```
-
 **Task 2:**
 
 Build a system within the same server to fetch the price of Ethereum every 10 minutes and store it in the database. 
 
 **Route**
-   ```bash
-   https://koinx-blockchain.onrender.com/api/getEthPrice
-   ```
-
-**Input**
    ```bash
    https://koinx-blockchain.onrender.com/api/getEthPrice
    ```
@@ -59,11 +49,6 @@ Develop a `GET` API for a user where they give their address as an input and get
 **Route**
  ```bash
    https://koinx-blockchain.onrender.com/api/getEthBalance/:WalletAddress
-   ```
-
-**Input**
- ```bash
-   https://koinx-blockchain.onrender.com/api/getEthBalance/0xce94e5621a5f7068253c42558c147480f38b5e0d`
    ```
 
 **Delployed Link:**
